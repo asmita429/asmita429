@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [Blockchain](Blockchain)
 
-- 💬 Ask me about **Solidity**
+- 💬 Ask me about **Blockchain, Solidity & Metamask**
 
 - 📫 How to reach me **asmitathapa429@gmail.com**
 
