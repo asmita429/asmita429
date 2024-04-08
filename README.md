@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **asmitathapa429@gmail.com**
 
-- ⚡ Fun fact **youtube shorts scroller**
+- ⚡ Fun fact **tongue slip**
 
 <p align="left">
 </p>
