@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [JavaScript](https://github.com/asmita429/JS2)
 
-- 🌱 I’m currently learning **React and Solidity**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [Blockchain](Blockchain)
 
