@@ -10,9 +10,7 @@
 
 - 💬 Ask me about **Blockchain, Solidity & Metamask**
 
-- 📫 How to reach me **asmitathapa429@gmail.com**
-
-- ⚡ Fun fact **tongue slip**
+- ⚡ Fun fact **talk active**
 
 <p align="left">
 </p>
